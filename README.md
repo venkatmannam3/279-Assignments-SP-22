@@ -1,7 +1,5 @@
 # 279-Assignments-SP-22
 
-Name :
-# Venkat Mannam
+Name : Venkat Mannam
 
-ID :
-# 015263326
+ID : 015263326
